@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<dateCreated>Tue Mar 31 2020 16:45:47 GMT+0800 (中国标准时间)</dateCreated>
+		<dateModified>Tue Mar 31 2020 16:45:47 GMT+0800 (中国标准时间)</dateModified>
+	</head>
+	<body>
+		<outline text="Linux常用操作">
+			<outline text="目录">
+				<outline text="查看目录：ls"></outline>
+				<outline text="进入目录：cd"></outline>
+				<outline text="快捷操作">
+					<outline text="回上一级：cd .."></outline>
+					<outline text="后退：cd -"></outline>
+					<outline text="回到用户目录：cd ~"></outline>
+					<outline text="进入根目录：cd /"></outline>
+				</outline>
+				<outline text="查看目录结构：tree"></outline>
+				<outline text="新建目录：mkdir">
+					<outline text="多级目录：mkdir -p one/two/three"></outline>
+				</outline>
+				<outline text="复制：cp -r +原目录+目标目录"></outline>
+				<outline text="删除：rm -r +目录"></outline>
+			</outline>
+			<outline text="文件">
+				<outline text="新建：touch"></outline>
+				<outline text="复制：cp +文件名 +目录"></outline>
+				<outline text="删除：rm"></outline>
+				<outline text="移动/重命名：mv">
+					<outline text="移动:mv+文件+目录"></outline>
+					<outline text="重命名：mv+文件+文件重命名"></outline>
+				</outline>
+				<outline text="查看文件内容：cat">
+					<outline text="cat+文件路径"></outline>
+					<outline text="cat -n 带序号展示"></outline>
+				</outline>
+				<outline text="编辑">
+					<outline text="vim/Gvim"></outline>
+					<outline text="sublime/gedit"></outline>
+					<outline text="其他"></outline>
+				</outline>
+			</outline>
+			<outline text="其他">
+				<outline text="帮助文档">
+					<outline text="man+命令"></outline>
+					<outline text="命令 --help"></outline>
+				</outline>
+			</outline>
+		</outline>
+		<outline text="XMind: ZEN - Trial Version"></outline>
+	</body>
+</opml>
